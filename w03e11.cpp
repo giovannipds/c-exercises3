@@ -5,10 +5,10 @@ int main()
 {
 	SetConsoleOutputCP(1252);
 	
-	int x, y;
+	float x, y;
 	
 	printf("Escreva dois números decimais: ");
-	scanf("%d%d", &x, &y);
+	scanf("%f%f", &x, &y);
 	
 	if (x > 0 && y > 0) {
 		printf("O ponto P está no 1º quadrante.");
