@@ -62,5 +62,9 @@ int main()
 		printf("Isento.");
 	}
 	
+	// Hey, eu desisti desse exercício,
+	// confere a implementação do professor
+	// que deve estar mais assertiva.
+	
 	return 1;
 }

@@ -4,6 +4,8 @@ Third week of exercises for C++, class Algorithms & Programming II, [Analysis an
 
 List at [w03exercises.pdf](w03exercises.pdf) (Portuguese Brazil).
 
+**Update:** the professor answers are the files ended with "-profsr".
+
 ## Serie links:
 
 - [C Exercises 1](https://github.com/giovannipds/c-exercises1)
