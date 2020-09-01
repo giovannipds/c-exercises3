@@ -11,4 +11,5 @@ List at [w03exercises.pdf](w03exercises.pdf) (Portuguese Brazil).
 - [C Exercises 1](https://github.com/giovannipds/c-exercises1)
 - [C Exercises 2](https://github.com/giovannipds/c-exercises2)
 - [C Exercises 3](https://github.com/giovannipds/c-exercises3) (this repo)
+- [C Exercises 4](https://github.com/giovannipds/c-exercises4)
 - (in progress)
