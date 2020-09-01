@@ -4,7 +4,12 @@
 const char *months[12] = {
 	"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho",
 	"Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"
-}; 
+};
+
+const int days[12] = {
+	31, 28, 31, 30, 31, 30,
+	31, 31, 30, 31, 30, 31
+};
   
 int main()
 {
@@ -24,7 +29,7 @@ int main()
 		}
 	} while (invalid);
 	
-	printf("%s", months[n - 1]);
+	printf("%s, este mês tem %i dias.", months[n - 1], days[n - 1]);
 	
 	return 1;
 }
